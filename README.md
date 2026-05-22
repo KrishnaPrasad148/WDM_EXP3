@@ -36,7 +36,9 @@ for each wear category.</p>
 <p align="justify">
 8. Visulaize the sequence patterns using matplotlib.
 </p>
+
 ### Program:
+
 ```
 Developed By : Krishna Prasad S
 Register No. : 212223230108
@@ -115,6 +117,7 @@ else:
  print("No frequent sequential patterns found in Party Wear.")
 ```
 ### Output:
+<img width="626" height="248" alt="output" src="https://github.com/user-attachments/assets/a69da6f0-b03f-4ba4-a358-b61eafa75b78" />
 
 ### Visualization:
 ```python
@@ -143,9 +146,9 @@ visualize_patterns_line(bottom_wear_result, 'Bottom Wear')
 visualize_patterns_line(party_wear_result, 'Party Wear')
 ```
 ### Output:
-<img width="626" height="248" alt="output" src="https://github.com/user-attachments/assets/584aa7ec-138c-4342-a70f-73a060b633d5" />
-<img width="989" height="590" alt="top" src="https://github.com/user-attachments/assets/a7830736-979a-454c-b0cf-088140af8fc0" />
-<img width="989" height="590" alt="party" src="https://github.com/user-attachments/assets/a7deb6ee-f5a2-49df-b2f6-c226d0f957ba" />
+<img width="989" height="590" alt="top" src="https://github.com/user-attachments/assets/bd6f6008-811b-42a9-a162-39a0d27c61f7" />
+<img width="989" height="590" alt="party" src="https://github.com/user-attachments/assets/022947e3-f77e-4a08-b153-b579dc85a7fa" />
+
 
 
 ### Result:
